@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: white;
+    
+}
+
+head {
+    position: relative;
+    padding-left: 100pxs;
+}
+
+nav {
+    position: absolute;
+    top: 0;
+    right: 100px;
+}
+
+.lists {
+    display: flex;
+    color: aqua;
+    list-style-type: none;
+    text-align: center;
+}
+
+.list {
+    color: aqua;
+    padding-right: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+}
+
+text {
+    width: 90%
+    
+}
+
+media {
+    text-align: center;
+    padding-top: 100px;
+    
+}
+
+footer {
+    padding-top: 50px
+        
+}
